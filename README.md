@@ -12,6 +12,7 @@ pip install instaloader
 ```
 
 ## Usage
+We now assume that you have installed Python, pip and installer. Let's move on to "How to run the program?"
 1. Open terminal and select Desktop. Type in terminal following command:: 
 ```bash
 cd desktop 
