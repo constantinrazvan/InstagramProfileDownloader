@@ -12,9 +12,17 @@ pip install instaloader
 ## Usage
 ```bash
 cd desktop 
+```
+```bash
 git clone https://github.com/constantinrazvan/InstagramProfileDownloader.git
+```
+```bash
 ls
+```
+```bash
 cd InstagramProfileDownloader 
+```
+```bash
 python3 insta_dpp.py
 ```
 ## Contributing
